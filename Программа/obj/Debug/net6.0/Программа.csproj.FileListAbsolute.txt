@@ -1,0 +1,15 @@
+C:\Users\Егор\Desktop\Подготовка к экзамену\Программа\Программа\bin\Debug\net6.0\Программа.exe
+C:\Users\Егор\Desktop\Подготовка к экзамену\Программа\Программа\bin\Debug\net6.0\Программа.deps.json
+C:\Users\Егор\Desktop\Подготовка к экзамену\Программа\Программа\bin\Debug\net6.0\Программа.runtimeconfig.json
+C:\Users\Егор\Desktop\Подготовка к экзамену\Программа\Программа\bin\Debug\net6.0\Программа.dll
+C:\Users\Егор\Desktop\Подготовка к экзамену\Программа\Программа\bin\Debug\net6.0\Программа.pdb
+C:\Users\Егор\Desktop\Подготовка к экзамену\Программа\Программа\obj\Debug\net6.0\Программа.csproj.AssemblyReference.cache
+C:\Users\Егор\Desktop\Подготовка к экзамену\Программа\Программа\obj\Debug\net6.0\Программа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Егор\Desktop\Подготовка к экзамену\Программа\Программа\obj\Debug\net6.0\Программа.AssemblyInfoInputs.cache
+C:\Users\Егор\Desktop\Подготовка к экзамену\Программа\Программа\obj\Debug\net6.0\Программа.AssemblyInfo.cs
+C:\Users\Егор\Desktop\Подготовка к экзамену\Программа\Программа\obj\Debug\net6.0\Программа.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\Подготовка к экзамену\Программа\Программа\obj\Debug\net6.0\Программа.dll
+C:\Users\Егор\Desktop\Подготовка к экзамену\Программа\Программа\obj\Debug\net6.0\refint\Программа.dll
+C:\Users\Егор\Desktop\Подготовка к экзамену\Программа\Программа\obj\Debug\net6.0\Программа.pdb
+C:\Users\Егор\Desktop\Подготовка к экзамену\Программа\Программа\obj\Debug\net6.0\Программа.genruntimeconfig.cache
+C:\Users\Егор\Desktop\Подготовка к экзамену\Программа\Программа\obj\Debug\net6.0\ref\Программа.dll
